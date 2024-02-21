@@ -15,5 +15,4 @@ Type the following command to compile the program:
 ```bash
 make
 
-```bash
 ./jeopardy.exe
